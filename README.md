@@ -287,7 +287,7 @@ const styles = StyleSheet.create({
 
 
 
-*required
+**required
 
 ### Todo (PRs welcome!)
 - [ ] Show next card underneath current card
